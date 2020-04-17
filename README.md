@@ -4,5 +4,5 @@ Download the kaggle dataset from the link below and put the zip file in folder w
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-DataAnalysis.ipynb contains the analysis done on the dataset along with the results
-Kaggle_CNN_COVID19_TransferLearning.ipynb contains the results if Transfer learning applied on our dataset with using pretrained architectures like mobileNet and vgg16
+1.DataAnalysis.ipynb contains the analysis done on the dataset along with the results
+2.Kaggle_CNN_COVID19_TransferLearning.ipynb contains the results if Transfer learning applied on our dataset with using pretrained architectures like mobileNet and vgg16
