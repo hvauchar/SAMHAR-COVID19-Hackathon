@@ -12,7 +12,13 @@ augmentation_Kaggle_CNN_COVID19.ipynb contain details regarding the image augmen
 
 I highly suggest to run the code on google colab rather on your local machine.
 
-Link to the video to setup google colab https://youtu.be/fB_SXvukJl4
+Link to the video to setup google drive and run the project on google colab https://youtu.be/fB_SXvukJl4
+
+https://youtu.be/fB_SXvukJl4
+
+https://youtu.be/fB_SXvukJl4
+
+https://youtu.be/fB_SXvukJl4
 
 If you opt to run it on your local machine do the following
 
