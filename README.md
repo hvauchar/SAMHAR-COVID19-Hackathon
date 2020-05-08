@@ -10,5 +10,13 @@ Kaggle_CNN_COVID19_TransferLearning.ipynb contains the results if Transfer learn
 
 augmentation_Kaggle_CNN_COVID19.ipynb contain details regarding the image augmentation techniques used and code for the same.
 
+I highly suggest to run the code on google colab rather on your local machine
+If you opt to run it on your local machine do the following
+
+1. clone the repository to your local machine and unzip it.
+
+2. Download the dataset from the link metioned above and unzip it in the code repository. 
+
+3. open terminal window in the directory where you have dumped all the github code and then run the below command to install all the required packages.
 
 $ python3 -m pip install --upgrade -r requirements.txt
