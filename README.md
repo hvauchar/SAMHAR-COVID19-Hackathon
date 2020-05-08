@@ -29,3 +29,10 @@ If you opt to run it on your local machine do the following
 3. open terminal window in the directory where you have dumped all the github code and then run the below command to install all the required packages.
 
 `$ python3 -m pip install --upgrade -r requirements.txt`
+
+
+Link to the Google Drive Folder(Must go through): https://bit.ly/3ewGarD
+
+Video link to setup google drive and run project on Colab: https://youtu.be/fB_SXvukJl4
+
+YouTube Video Link (Must watch) : https://youtu.be/mszN1JNcENs
