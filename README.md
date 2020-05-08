@@ -9,3 +9,6 @@ DataAnalysis.ipynb contains the analysis done on the dataset along with the resu
 Kaggle_CNN_COVID19_TransferLearning.ipynb contains the results if Transfer learning applied on our dataset with using pretrained architectures like mobileNet and vgg16.
 
 augmentation_Kaggle_CNN_COVID19.ipynb contain details regarding the image augmentation techniques used and code for the same.
+
+
+$ python3 -m pip install --upgrade -r requirements.txt
