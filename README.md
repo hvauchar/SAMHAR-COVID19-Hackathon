@@ -19,4 +19,4 @@ If you opt to run it on your local machine do the following
 
 3. open terminal window in the directory where you have dumped all the github code and then run the below command to install all the required packages.
 
-$ python3 -m pip install --upgrade -r requirements.txt
+`$ python3 -m pip install --upgrade -r requirements.txt`
