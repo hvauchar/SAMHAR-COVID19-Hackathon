@@ -13,9 +13,6 @@ requests==2.22.0
 ##### Machine Learning packages
 scikit-learn==0.22
 
-# Optional: the XGBoost library is only used in the ensemble learning chapter.
-xgboost==0.90
-
 ##### Deep Learning packages
 
 # Replace tensorflow with tensorflow-gpu if you want GPU support. If so,
